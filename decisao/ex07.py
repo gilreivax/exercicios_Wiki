@@ -1,0 +1,1 @@
+numUm = int(input(""))
